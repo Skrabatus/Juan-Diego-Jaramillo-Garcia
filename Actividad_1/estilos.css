@@ -27,10 +27,13 @@ body{
     object-position: top;
 }
 header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 25px;
     background: url(/imagenes/monteria.jpg);
     background-size: cover;
     background-position: center;
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
