@@ -6,6 +6,7 @@ body{
     background: url(/imagenes/monteria-2.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #container{
