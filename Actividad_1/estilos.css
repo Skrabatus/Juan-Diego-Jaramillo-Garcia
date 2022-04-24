@@ -36,9 +36,12 @@ header{
 }
 nav{
     background: lightsalmon;
-    height: 30px;
+    height: 40px;
     line-height: 10px;
-    border: 1px solid black
+    display: flex;
+    flex-direction: column;  
+    border: 1px solid black;
+    padding-bottom: 25px;
 }
 nav ul li{
     float: left;
